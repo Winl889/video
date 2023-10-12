@@ -1,2 +1,2 @@
 {"text":"Set Thailand Channel video",
-"video":"https://www.dropbox.com/s/qmqhfx0vs60qdcg/7b6f15cde76f168574644e9497ac62a7.mp4?dl=1"}
+"image":"https://www.dropbox.com/scl/fi/3kiagk9q6n3n4dgqdkavn/FB_IMG_1640860815627.jpg?rlkey=uyho2fc62xzxl4a3x9z0dk1rp&dl=1","text2":"Set Thailand Channel video"}
